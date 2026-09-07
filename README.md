@@ -53,3 +53,15 @@ The Cisco Packet Tracer `.pkt` file is included in this repository and contains 
 - Packet Analysis
 - Cisco Packet Tracer
 - Wireshark
+
+
+## Project Screenshots
+
+### Network Topology
+![Network Topology](Network-topology.jpeg)
+
+### Connectivity Testing
+![Connectivity Testing](connectivity-test.jpeg)
+
+### Wireshark Traffic Analysis
+![Wireshark Traffic Analysis](Wireshark-traffic-analysis.jpeg)
